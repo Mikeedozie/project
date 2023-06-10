@@ -334,7 +334,7 @@ footer {
           justify-content: center;
   gap: 3rem;
   padding: 3rem;
-  height: 20vh;
+  min-height: 25vh;
 }
 
 footer * {

@@ -366,7 +366,7 @@ footer .icons {
     background: url("images/mobile/image-header.jpg") bottom  no-repeat;
     background-size: cover;
     position: relative;
-    gap: 5rem;
+    gap: 8rem;
     min-height: 90vh;
   }
   .head nav {

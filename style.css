@@ -23,7 +23,7 @@ body {
 
 .head {
   padding: 1.5rem;
-  background: url("images/desktop/image-header.jpg") center center no-repeat;
+  background: url("images/mobile/image-header.jpg") bottom  no-repeat;
   background-size: cover;
   min-height: 45rem;
   display: -webkit-box;
